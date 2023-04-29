@@ -6,6 +6,12 @@ The file can be used for free and without license.
 
 Romixo.
 
+## Links :
+
+BetterDiscord : [BetterDiscord Website](https://betterdiscord.app/)
+
+Vencord : [Vencord Download Github Page](https://github.com/Vencord/Installer#vencord-installer)
+
 ## Contact :
 
 Discord : Romixo#9765
