@@ -1,5 +1,7 @@
-# Hello everyone,
-If you read this, It means you have opened the README.md file, the "Romixo.theme.css" file can be used with BetterDiscord or Vencord, etc.
+# Romixo Discord Theme
+
+Hello everyone,
+"Romixo.theme.css" file can be used with BetterDiscord or Vencord, etc.
 The file can be used for free and without license.
 
 Romixo.
