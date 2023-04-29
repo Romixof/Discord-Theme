@@ -10,7 +10,7 @@ Romixo.
 
 Discord : Romixo#9765
 
-Instagram :
+Instagram : [https://www.instagram.com/romixo_off/] (https://www.instagram.com/romixo_off/)
 
 Twitter :
 
