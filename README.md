@@ -12,8 +12,8 @@ Discord : Romixo#9765
 
 Instagram : [Romixo_Off](https://www.instagram.com/romixo_off/)
 
-Twitter :
+Twitter : [Romixo_](https://twitter.com/Romixo_)
 
-Behance :
+Behance : Comming Soon !
 
-My Website : www.Romixo.rf.gd
+My Website : [Romixo.](www.Romixo.rf.gd)
