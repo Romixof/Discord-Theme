@@ -15,6 +15,9 @@
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
 @import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
 
 :root {
   --accent-hue: 213;
@@ -33,7 +36,7 @@
   --window-background-image: initial;
   --window-background-image-position: center;
   --window-background-image-size: cover;
-  --window-background-image-attachment: fixed;
+  --window-background-image-attachment: local;
   --window-opacity: 100%;
   --window-blur: 0;
   --window-friends-blur: 0;
