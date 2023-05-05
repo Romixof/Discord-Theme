@@ -6,6 +6,11 @@ The file can be used for free and without license.
 
 Romixo.
 
+## Preview : 
+
+![image](https://user-images.githubusercontent.com/126079165/236557459-3ff1cb72-7b54-4f9b-915f-fc1b265d427e.png)
+
+
 ## Links :
 
 BetterDiscord : [BetterDiscord Website](https://betterdiscord.app/)
