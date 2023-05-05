@@ -1,47 +1,66 @@
-/*
-
-Author : Romixo
-Discord : Romixo#9765
-Website : www.Romixo.rf.gd/
-
+/**
+ * @name Romixo
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Righteous:wght@100;300;400;500;700&display=swap');
-@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
-@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
 
 :root {
-  --background-image: url('https://images.hdqwalls.com/wallpapers/blue-bright-space-art-ys.jpg');
-  --background-image-blur: 5px;
-  --background-image-size: cover;
+  --accent-hue: 213;
+  --accent-saturation: 100%;
+  --accent-brightness: 50%;
+  --background-accent-hue: 213;
+  --background-accent-saturation: 100%;
+  --background-accent-brightness: 50%;
+  --background-image: url('https://user-images.githubusercontent.com/126079165/236552221-772262ae-d1ca-43d6-a6ed-8820b2a4186b.jpeg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-position: center;
-  --popout-image: url('https://images.hdqwalls.com/wallpapers/blue-bright-space-art-ys.jpg');
-  --popout-image-blur: 5px;
-  --popout-image-size: cover;
-  --popout-image-position: center;
-  --overlay-image: url('https://images.hdqwalls.com/wallpapers/blue-bright-space-art-ys.jpg');
-  --overlay-image-blur: 5px;
-  --overlay-image-size: cover;
-  --overlay-image-position: center;
-  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
-  --home-button-size: cover;
-  --home-button-position: center;
-  --serverlist-brightness: 0.8;
-  --left-brightness: 0.8;
-  --middle-brightness: 0.6;
-  --right-brightness: 0;
-  --overlay-brightness: 0.75;
-  --gradient-primary: 0,152,236;
-  --gradient-secondary: 111,1,132;
-  --link-colour: #06C9E4;
-  --scrollbar-colour: rgba(255,255,255,0.05);
-  --gradient-direction: 320deg;
-  --tint-colour: 0,255,210;
-  --tint-brightness: 0;
-  --font: Righteous;
-  --window-padding: 20px;
-  --window-roundness: 10px;
-  --update-notice-1: none;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 40%;
+  --background-overlay-color-lightness: 0;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 100%;
+  --window-blur: 0;
+  --window-friends-blur: 0;
+  --window-margin: 24;
+  --window-margin-left: 0;
+  --window-border-radius: 10px;
+  --window-background-lightness: 0;
+  --window-accent-tint-strength: 5%;
+  --chat-bubble: 0;
+  --text-link-hue: 222;
+  --chat-text-brightness: 0;
+  --home-icon: initial;
+  --favorites-icon: initial;
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: 0;
+  --sidebar-width: 240px;
+  --members-width: 240px;
+  --sidebar-text-brightness: 0;
+  --background-floating-blur: 20px;
+  --floating-background-lightness: 0;
+  --background-floating-opacity: 1;
+  --enable-floating-transparency: 1;
+  --custom-font-display: Righteous;
+  --custom-font-regular: Righteous;
+  --custom-font-primary: Righteous;
+  --custom-font-code: Righteous;
+  --enable-blur: 1;
 }
 
 /* Any custom CSS below here */
