@@ -19,7 +19,7 @@ Vencord : [Vencord Download Github Page](https://github.com/Vencord/Installer#ve
 
 ## Contact :
 
-Discord : Romixo#9765
+Discord : [Romixo#9765](https://discordapp.com/users/757264486460817549)
 
 Instagram : [Romixo_Off](https://www.instagram.com/romixo_off/)
 
